@@ -76,5 +76,10 @@ body {
 }
 
 .reflexo {
-    background-image: linear-gradient(to bottom right, rgb(211, 211, 211, 0.5) 20%, rgb(211, 211, 211, 0.3) 60%, rgb(211, 211, 211, 0.2));
+    background-image: linear-gradient(
+        to bottom right,
+        rgb(211, 211, 211, 0.5) 20%,
+        rgb(211, 211, 211, 0.3) 60%,
+        rgb(211, 211, 211, 0.2)
+    );
 }
